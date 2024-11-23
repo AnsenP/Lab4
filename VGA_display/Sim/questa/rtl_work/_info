@@ -1,0 +1,121 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2023.3 2023.07, Jul 17 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/FPGA_Laboratory/Lab4/VGA_diaplay/Sim/questa
+T_opt
+!s110 1732340298
+VlP>6FO;Hm4Ilf:YEGI@Pl3
+04 11 4 work tb_vga_ctrl fast 0
+=1-a029422e883a-67416a49-32a-3d5c
+R0
+!s12b OEM100
+!s124 OEM10U3 
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2023.3;77
+vclk_gen
+2C:/FPGA_Laboratory/Lab4/VGA_diaplay/Quartus_prj/ip_core/clk_gen/clk_gen.v
+!s110 1732340297
+!i10b 1
+!s100 ifhShLajK5[b`XbbEH2UB3
+I8VcWGcz9zDU2JQXnOFQ1i2
+R1
+w1731819526
+8C:/FPGA_Laboratory/Lab4/VGA_diaplay/Quartus_prj/ip_core/clk_gen/clk_gen.v
+FC:/FPGA_Laboratory/Lab4/VGA_diaplay/Quartus_prj/ip_core/clk_gen/clk_gen.v
+!i122 3
+L0 40 124
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OL;L;2023.3;77
+r1
+!s85 0
+31
+!s108 1732340297.000000
+!s107 C:/FPGA_Laboratory/Lab4/VGA_diaplay/Quartus_prj/ip_core/clk_gen/clk_gen.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/FPGA_Laboratory/Lab4/VGA_diaplay/Quartus_prj/ip_core/clk_gen|C:/FPGA_Laboratory/Lab4/VGA_diaplay/Quartus_prj/ip_core/clk_gen/clk_gen.v|
+!i113 0
+Z5 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+!s92 -vlog01compat -work work +incdir+C:/FPGA_Laboratory/Lab4/VGA_diaplay/Quartus_prj/ip_core/clk_gen -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vtb_vga_ctrl
+2C:/FPGA_Laboratory/Lab4/VGA_diaplay/Quartus_prj/../Sim/tb_vga_ctrl.v
+Z6 !s110 1732340296
+!i10b 1
+!s100 ZAH8V>hf51DzemJhGaHJ;2
+IL5IMj_<Bk_H1]GF>PggV?2
+R1
+w1732340263
+8C:/FPGA_Laboratory/Lab4/VGA_diaplay/Quartus_prj/../Sim/tb_vga_ctrl.v
+FC:/FPGA_Laboratory/Lab4/VGA_diaplay/Quartus_prj/../Sim/tb_vga_ctrl.v
+!i122 1
+L0 2 68
+R3
+R4
+r1
+!s85 0
+31
+Z7 !s108 1732340296.000000
+!s107 C:/FPGA_Laboratory/Lab4/VGA_diaplay/Quartus_prj/../Sim/tb_vga_ctrl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/FPGA_Laboratory/Lab4/VGA_diaplay/Quartus_prj/../Sim|C:/FPGA_Laboratory/Lab4/VGA_diaplay/Quartus_prj/../Sim/tb_vga_ctrl.v|
+!i113 0
+R5
+!s92 -vlog01compat -work work +incdir+C:/FPGA_Laboratory/Lab4/VGA_diaplay/Quartus_prj/../Sim -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vvga_ctrl
+2C:/FPGA_Laboratory/Lab4/VGA_diaplay/Quartus_prj/../RTL/vga_ctrl.v
+R6
+!i10b 1
+!s100 W:BVLG^?STZ1X[eIVoTR>2
+IFI@G1AM4TUnXo_PE>e11S2
+R1
+w1731828973
+8C:/FPGA_Laboratory/Lab4/VGA_diaplay/Quartus_prj/../RTL/vga_ctrl.v
+FC:/FPGA_Laboratory/Lab4/VGA_diaplay/Quartus_prj/../RTL/vga_ctrl.v
+!i122 2
+L0 1 97
+R3
+R4
+r1
+!s85 0
+31
+R7
+!s107 C:/FPGA_Laboratory/Lab4/VGA_diaplay/Quartus_prj/../RTL/vga_ctrl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/FPGA_Laboratory/Lab4/VGA_diaplay/Quartus_prj/../RTL|C:/FPGA_Laboratory/Lab4/VGA_diaplay/Quartus_prj/../RTL/vga_ctrl.v|
+!i113 0
+R5
+!s92 -vlog01compat -work work +incdir+C:/FPGA_Laboratory/Lab4/VGA_diaplay/Quartus_prj/../RTL -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vvga_pic
+2C:/FPGA_Laboratory/Lab4/VGA_diaplay/RTL/vga_pic.v
+R6
+!i10b 1
+!s100 WJ0BY`IKIJJFJ8=lPo]kO0
+I01bHT]6JA6MP`6:g>8;8Z3
+R1
+w1731829276
+8C:/FPGA_Laboratory/Lab4/VGA_diaplay/RTL/vga_pic.v
+FC:/FPGA_Laboratory/Lab4/VGA_diaplay/RTL/vga_pic.v
+!i122 0
+L0 1 112
+R3
+R4
+r1
+!s85 0
+31
+R7
+!s107 C:/FPGA_Laboratory/Lab4/VGA_diaplay/RTL/vga_pic.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/FPGA_Laboratory/Lab4/VGA_diaplay/RTL|C:/FPGA_Laboratory/Lab4/VGA_diaplay/RTL/vga_pic.v|
+!i113 0
+R5
+!s92 -vlog01compat -work work +incdir+C:/FPGA_Laboratory/Lab4/VGA_diaplay/RTL -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
