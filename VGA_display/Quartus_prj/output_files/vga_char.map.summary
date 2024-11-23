@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sat Nov 23 13:32:55 2024
+Quartus Prime Version : 23.1std.1 Build 993 05/14/2024 SC Lite Edition
+Revision Name : vga_char
+Top-level Entity Name : vga_pic
+Family : Cyclone IV E
+Total logic elements : 437
+    Total combinational functions : 426
+    Dedicated logic registers : 12
+Total registers : 12
+Total pins : 38
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
